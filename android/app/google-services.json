@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "750374077754",
+    "project_id": "kurutomodev",
+    "storage_bucket": "kurutomodev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750374077754:android:961b0e773e1a0872b5fc03",
+        "android_client_info": {
+          "package_name": "com.example.kurutomo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750374077754-s59uf62bfasi6la0harto79iavou285a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl0krggQeFuKa79PDmszvSORyWHFohD24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750374077754-s59uf62bfasi6la0harto79iavou285a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

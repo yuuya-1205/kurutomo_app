@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:kurutomo_app/firebase_options.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+
   runApp(const MyApp());
 }
 
